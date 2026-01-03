@@ -1,5 +1,15 @@
-torch
+# Core scientific stack
 numpy
-matplotlib
 scipy
+matplotlib
+
+# Machine learning / PINN demos
+torch
+torchvision
+
+# Jupyter support (optional, for notebooks)
 jupyter
+notebook
+
+# Visualization extras
+seaborn
